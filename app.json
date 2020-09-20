@@ -24,9 +24,6 @@
     },
     {
       "url": "https://github.com/magneto261290/heroku-buildpack-rclone-mod"
-    },
-    {
-      "url": "https://github.com/magneto261290/megatools-heroku-buildpack"
     }
   ]
 }
